@@ -22,6 +22,8 @@ public class PaswordString {
 			}
 			
 		}
+
+		System.out.println("cacafuti");
 		
 		
 		//Palabras de longitug mayor a 5
