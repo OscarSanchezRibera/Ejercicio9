@@ -77,6 +77,6 @@ public class Laberinto {
                 juegoEnCurso = false;
             }
         }
-
+        System.out.println("ESTA ES UNA MODIFICACIÓN DEL EJERCICIO 11");
     }
 }
