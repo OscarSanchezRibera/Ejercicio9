@@ -10,17 +10,6 @@ public static void main(String[] args) {
 
         String j1, j2;
 
-        // Validar el nick del jugador 1
-        do {
-            System.out.print("Ingrese el nick del jugador 1 (JXXX0): ");
-            j1 = scanner.next();
-        } while (!validarNick(j1));
-
-        // Validar el nick del jugador 2
-        do {
-            System.out.print("Ingrese el nick del jugador 2 (JXXX0): ");
-            j2 = scanner.next();
-        } while (!validarNick(j2));
 
         // Lanzar dados y determinar ganador
         int[] resultado1 = lanzarDados();
