@@ -7,7 +7,7 @@ public class Dados {
 
 public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        System.out.println("Este es el ejercicio 12 de ENDES OSCAR SANCHEZ");
         String j1, j2;
 
 
